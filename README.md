@@ -1,7 +1,7 @@
 # stretch-now
 ### A chrome extension that will remind you to stretch every 20 minutes
 
-![Demo Photo](.assets/chromeextension.png)
+![Demo Photo](chromeextension.jpg)
 
 #### How to use the chrome extension?
 - clone or download this repository
